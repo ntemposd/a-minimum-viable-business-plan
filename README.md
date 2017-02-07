@@ -92,11 +92,11 @@ We exclusively distribute our flight tickets through our website. The Simple tic
 #### b. Channels
 
 |           | Action                                                                                                        | -state-  |
-|-----------|---------------------------------------------------------------------------------------------------------------|----------|
+|-----------|---------------------------------------------------------------------------------------------------------------|:--------:|
 |**email**  |Nurture and increase the existing community of more than 1000 potential travelers using viral loop techniques. |-active-  |
 |**WeTube** |Get potential travelers to _"know everything about the universe"_ through a series of multimedia content.|-inactive-Q1'50 |
-|**SEO/SEM:**|Get Dummy-D first in search results for terms such as 'alternative traveling' and 'space creature'.           | -active- |
-|**Simulators:**|Set up Dummy-D flight simulators in strategic POIs. Use scarcity effect trick offering -5% for 24h after the simulation experience.|-inactive-Q1'51|
+|**SEO/SEM**|Get Dummy-D first in search results for terms such as 'alternative traveling' and 'space creature'.           | -active- |
+|**Simulators**|Set up Dummy-D flight simulators in strategic POIs. Use scarcity effect trick offering -5% for 24h after the simulation experience.|-inactive-Q1'51|
 
 _*  Our accumulated potential reach is more than 800,000 travelers by the end of 2050._
 
