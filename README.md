@@ -113,7 +113,7 @@ Core production is done in west Sahara. We'll stay there, expanding our current 
 
 #### b. Risks
 
-*   **Supply failure:** We sign longterm contracts with companies established for more than 25 years.
+*   **Supply failure:** We sign long term contracts with long-established supply companies.
 *   **Delays:** Delays are reimbursed by our insurance partner for a flat fee of 200 drachmas/year.
 
 ### Financials:
