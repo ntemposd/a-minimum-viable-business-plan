@@ -1,13 +1,13 @@
-## Scope of Work:
+## Scope of Work
 Does your brilliant billion dollar idea compile into a sustainable business? Do you really need this funding now? 
 Hmm, let's speak on facts... We are in 2049 and you are building a Spacecraft. 
 How a viable business plan might look like?
 
-### Summary:
+### Summary
 
 Dummy-D offers the most relaxing space traveling experience around the globe. Our Spacecrafts are developed to make travelers feel like home providing one of a kind features such as internet, sofas on-board and jacuzzi. We've been working on our product for a year now, using our own capital and are currently searching 40.000.000 drachmas to make the business roll. We already have some customer attention, manifested via pre-booked tickets; however, success is calculated on fully deposited bookings, starting from 1st January 2050.
 
-### Team:
+### Team
 
 We met each other 10 years ago at the university. Our goal is to create a modern company where any professional would love to work.
 
@@ -32,7 +32,7 @@ Our company is an LtD based in the Dark Side of the Moon. Although the Moon is f
 | Bob      |   50%  |
 | Jen      |   50%  |
 
-### Market:
+### Market
 
 Our Market is constantly growing since the first trip back in 2020. By 2048 the need of our product became clear, with more than 1.000.000 customers traveling around the universe.
 
@@ -58,7 +58,7 @@ More than half of space travelers are Africans with ~50% of them being Malawians
 
 On one hand Dummy-D outperforms competitive players by being far more comforting. On the other hand, ticket price is higher than the market average as relaxation services addition results to higher production costs. As the totals reveal, we enter the market offering an equivalent to traditional market leaders product.
 
-### Product:
+### Product
 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
@@ -80,7 +80,7 @@ Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and
 
 _note:_ Premium & Platinum packages will be introduced after the 1st operating year.
 
-### Marketing:
+### Marketing
 
 We exclusively distribute our flight tickets through our website. The Simple ticket price is 10k drachmas per traveler. Payments are processed online. At the moment our core KPI is "Number of pre-bookings/Unique Website Visitors".
 
@@ -100,7 +100,7 @@ We exclusively distribute our flight tickets through our website. The Simple tic
 
 _*  Our accumulated potential reach is more than 800,000 travelers by the end of 2050._
 
-### Operations:
+### Operations
 
 Core production is done in west Sahara. We'll stay there, expanding our current factory according to any emerging needs. Our Marketing team will be distributed into strategic areas around the globe.
 
@@ -116,7 +116,7 @@ Core production is done in west Sahara. We'll stay there, expanding our current 
 *   **Supply failure:** We sign long term contracts with long-established supply companies.
 *   **Delays:** Delays are reimbursed by our insurance partner for a flat fee of 200 drachmas/year.
 
-### Financials:
+### Financials
 
 We'll be mainly spending to cover production, intellectual property, human resources and marketing needs.
 
