@@ -62,7 +62,7 @@ On one hand Dummy-D outperforms competitive players by being far more comforting
 
 Dummy-D is currently in version 0.9-Sofa. Jacuzzi feature is in the building and will be introduced in version 1.0. The maximum capacity of our aircraft is 75 travelers/journey.
 
-![Dummy-D external view](http://ntemposd.me/img/Dummy-D.png "Dummy-D external view")
+![Dummy-D external view](https://www.ntemposd.me/blog/a-minimum-viable-business-plan/spacecraft.png "Dummy-D external view")
 
 ##### Features
 
